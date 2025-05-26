@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+* {
+  margin: 10 px;
+  padding: 10 px;
+  box-sizing: border-box;
+  font-family: "Share Tech", sans-serif;
+}
+
+.main {
+  max-width: 800px;
+  width: 50%;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.btn-link {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-link:hover {
+  background-color: #0056b3;
+}
+
+.btn-link:active {
+  transform: scale(0.95);
+}
+=======
+* {
+  margin: 10 px;
+  padding: 10 px;
+  box-sizing: border-box;
+  font-family: "Share Tech", sans-serif;
+}
+
+.main {
+  max-width: 800px;
+  width: 50%;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.btn-link {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-link:hover {
+  background-color: #0056b3;
+}
+
+.btn-link:active {
+  transform: scale(0.95);
+}
+>>>>>>> de552da7f6a72b2ff4afef1ae6b98b2c66449462

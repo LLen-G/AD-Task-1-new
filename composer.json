@@ -1,0 +1,15 @@
+{
+    "name": "llen/ad-task-1",
+    "type": "project",
+
+    "authors": [
+        {
+            "name": "LLen-G",
+            "email": "christianallengalang@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "php -S localhost:4090 router.php"
+    },
+    "require": {}
+}
